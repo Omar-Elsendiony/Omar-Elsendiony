@@ -11,16 +11,17 @@ process. I also have a great knowledge of the web development that helps me brin
 <table>
 <tr>
 <td>
-  ### AI
+  
+### AI
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
 
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="Pytorch" height="50" /></a>  
-  
-  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" height="50" /></a>  
-</td>
-  
-</tr>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="Pytorch" height="50" /></a>  
+
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" height="50" /></a>  
+</td></tr>
+
 <tr>
+
 <td valign="top" width="33%">
 
 
