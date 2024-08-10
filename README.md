@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+I am a software engineer with a strong passion for AI, Digital Verification, Digital Design and Automation testing. My expertise liesin
+programming, software design as well as hardware design. I am an avid learner of AI as I am particularly interested in designing language
+models that yield high accuracy. I am passionate about embedding AI in other fields as it has the capability of automating most of the
+process. I also have a great knowledge of the web development that helps me bring my ideas to life and share it with other people.
+
 <!--
 **Omar-Elsendiony/Omar-Elsendiony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
