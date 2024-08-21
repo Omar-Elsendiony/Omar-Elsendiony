@@ -44,6 +44,8 @@ process. I also have a great knowledge of the web development that helps me brin
 
 <a href="" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/06/Cadence-Logo.png" alt="Cadence" height="50" /></a>  
 
+<a href="" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiH_sTxmiLNKfGvb6oNEAA0K5F4nCVZ8OZBQ&s" alt="Tanner Eda" height="50" /></a>  
+
 </div>
 </td>
 
@@ -100,8 +102,8 @@ process. I also have a great knowledge of the web development that helps me brin
 </td></tr></table>  
 
 <br/>  
-
-📫 reach me via linkedin: https://www.linkedin.com/in/omarelsendiony/
+## LinkedIn
+📫 reach me via [linkedin](https://www.linkedin.com/in/omarelsendiony/)
 
 <!--
 **Omar-Elsendiony/Omar-Elsendiony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
