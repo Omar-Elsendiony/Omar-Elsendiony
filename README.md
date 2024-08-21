@@ -101,9 +101,10 @@ process. I also have a great knowledge of the web development that helps me brin
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
 ## LinkedIn
-📫 reach me via [linkedin](https://www.linkedin.com/in/omarelsendiony/)
+📫 reach me via [LinkedIn](https://www.linkedin.com/in/omarelsendiony/)
 
 <!--
 **Omar-Elsendiony/Omar-Elsendiony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
