@@ -28,9 +28,9 @@ process. I also have a great knowledge of the web development that helps me brin
 <div align="center">
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*musVE9e4bgjTWeoRmc-P_w.png" alt="Selenium" height="50" /></a>  
 
-<a href="https://appium.io/docs/en/latest/" target="_blank"><img style="margin: 10px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="Pytorch" height="50" /></a>  
+<a href="https://appium.io/docs/en/latest/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png" alt="Appium" height="50" /></a>  
 
-<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" height="50" /></a>  
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_bYvvXNpcfN5I71aaQ4kpNFYBksZhMuREA&s" alt="k6" height="50" /></a>  
 </div>
 </td>
 
