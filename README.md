@@ -7,10 +7,12 @@ programming, software design as well as hardware design. I am an avid learner of
 models that yield high accuracy. I am passionate about embedding AI in other fields as it has the capability of automating most of the
 process. I also have a great knowledge of the web development that helps me bring my ideas to life and share it with other people.
 
-
+## Technologies
 <table><tr>
 <td valign="top"  width="33%">
+
 ### AI
+
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
 
@@ -21,17 +23,19 @@ process. I also have a great knowledge of the web development that helps me brin
 </td>
 
 <td valign="top"  width="33%">
-### AI
+  
+### Testing
 <div align="center">
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*musVE9e4bgjTWeoRmc-P_w.png" alt="Selenium" height="50" /></a>  
 
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="Pytorch" height="50" /></a>  
+<a href="https://appium.io/docs/en/latest/" target="_blank"><img style="margin: 10px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="Pytorch" height="50" /></a>  
 
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" height="50" /></a>  
 </div>
 </td>
 
 <td valign="top"  width="33%">
+  
 ### AI
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
@@ -81,9 +85,7 @@ process. I also have a great knowledge of the web development that helps me brin
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
+  
 ### DevOps  
 <div align="center">  
 <!-- <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>   -->
@@ -98,6 +100,7 @@ process. I also have a great knowledge of the web development that helps me brin
 
 <br/>  
 
+📫 reach me via linkedin: https://www.linkedin.com/in/omarelsendiony/
 
 <!--
 **Omar-Elsendiony/Omar-Elsendiony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
