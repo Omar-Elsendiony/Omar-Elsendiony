@@ -8,10 +8,8 @@ models that yield high accuracy. I am passionate about embedding AI in other fie
 process. I also have a great knowledge of the web development that helps me bring my ideas to life and share it with other people.
 
 
-<table>
-<tr>
-  
-<td valign="top">
+<table><tr>
+<td valign="top"  width="33%">
 ### AI
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
@@ -22,7 +20,7 @@ process. I also have a great knowledge of the web development that helps me brin
 </div>
 </td>
 
-<td valign="top">
+<td valign="top"  width="33%">
 ### AI
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
@@ -33,7 +31,7 @@ process. I also have a great knowledge of the web development that helps me brin
 </div>
 </td>
 
-<td valign="top">
+<td valign="top"  width="33%">
 ### AI
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj" alt="Tensorflow" height="50" /></a>  
@@ -46,13 +44,7 @@ process. I also have a great knowledge of the web development that helps me brin
 
 </tr>
 
-
-
-<tr>
-
-<td valign="top" width="33%">
-
-
+<tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -66,7 +58,8 @@ process. I also have a great knowledge of the web development that helps me brin
 
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 
 
